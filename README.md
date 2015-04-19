@@ -2,7 +2,7 @@
 
 ###Icons:
 
-synapse-indicator, caffeine-indicator, dropbox-indicator, mega-indicator
+synapse-indicator, caffeine-indicator, dropbox-indicator, mega-indicator, redshift-indicator
 
 The Dropbox and Mega icons are the same!
 
