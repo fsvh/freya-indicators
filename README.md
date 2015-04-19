@@ -4,7 +4,7 @@
 
 synapse-indicator, caffeine-indicator, dropbox-indicator, mega-indicator
 
-The Dropbox and mega icons are the same!
+The Dropbox and Mega icons are the same!
 
 ![Text alternatif](https://raw.githubusercontent.com/fsvh/freya-indicators/images/images/symbols.png)
 
