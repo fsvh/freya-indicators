@@ -1,4 +1,4 @@
-##Some icons for Freya desktop.
+##Some icons for elementary OS Freya
 
 ###Icons:
 
